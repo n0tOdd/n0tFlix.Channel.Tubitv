@@ -89,7 +89,7 @@ namespace n0tFlix.Channel.TubiTV
             result.TotalRecordCount++;
             result.Items.Add(new ChannelItemInfo()
             {
-                Id = "Faith".ToLower(),
+                Id = "faith_and_spirituality".ToLower(),
                 Name = "Faith",
                 FolderType = MediaBrowser.Model.Channels.ChannelFolderType.Container,
                 Type = ChannelItemType.Folder,
