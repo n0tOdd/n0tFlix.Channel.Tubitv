@@ -1,0 +1,9 @@
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\bin\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.deps.json
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\bin\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.dll
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\obj\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.csprojAssemblyReference.cache
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\obj\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.AssemblyInfoInputs.cache
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\obj\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.AssemblyInfo.cs
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\obj\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.csproj.CoreCompileInputs.cache
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\bin\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.pdb
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\obj\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.dll
+E:\Git\n0tFlix.Channel.Tubitv\n0tFlix.Channel.TubiTV\n0tFlix.Channel.TubiTV\obj\Debug\netstandard2.1\n0tFlix.Channel.TubiTV.pdb
